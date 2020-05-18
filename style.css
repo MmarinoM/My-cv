@@ -1,0 +1,100 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #F0FFF8;
+    margin: 0 auto;
+    background-color: #4F6367;
+    
+}
+
+
+/* FLEX ET BOX HEADER ****************************** */
+.containerHead{
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #FE5F55;
+    opacity: 0.8;
+}
+.nom{
+    width: 60%;
+    text-align: center;
+    font-size: 2.5em;
+}
+.info{
+    width: 40%;
+    text-align: left;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 1.3em;
+}
+.info a{
+    text-decoration: none;
+    color: #F0FFF8;
+    font-size: 0.9em;
+}
+
+
+/*  FLEX EXPERIENCE ET FORMATION ****************** */
+
+.container{
+    display: flex;
+    width: 60%;
+    margin: 0 auto;
+    opacity: 0.8;
+    margin-top: 50px;
+    justify-content: center;
+    color: #231123;
+    
+}
+.container2{
+    width: 70%;
+}
+.container4{
+    width: 25%;
+}
+.container3{
+    background-color: #E8DB7D;
+    width: 95%;
+}
+.container5{
+    background-color: #E8DB7D;
+    width: 95%;
+}
+
+h2{
+    text-align: center;
+    color: #82204A;
+    font-size: 30px;
+    margin-bottom: 5px;
+    
+}
+
+.first{
+    height: 60%;
+}
+.second{
+    height: 40%;
+}
+.first2{
+    height: 58%;
+}
+.second2{
+    height: 42%;
+    
+}
+
+p{
+    margin-left: 15px;
+    font-size: 1.1em;
+}
+
+li{
+    font-weight:bold;
+}
+
+.ital{
+    font-style: italic;
+}
+.bold{
+    font-weight: bold;
+}
