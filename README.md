@@ -1,4 +1,4 @@
-= Curriculum vitae
+# Curriculum vitae
 
 // links
 :grid: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
@@ -8,14 +8,14 @@ Deployment strategy: *Github page* +
 Team challenge: *solo*
 
 
-== Learning objectives
+##Learning objectives
 
 At the end of this challenge you should be able to:
 
 * use the *CSS* grid system
 
 
-== The mission
+## The mission
 
 You have to make your *CV* as a website inside a new repository called _My-CV_.
 To do so, you should use the grid system of *CSS* to visually structure your
