@@ -1,3 +1,5 @@
+[myCV](https://mmarinom.github.io/My-cv/)
+
 # Curriculum vitae
 
 // links
@@ -28,10 +30,4 @@ page.
 * commit/push
 * deploy on a Github page
 
-
-== Resources
-
-* http://cssgridgarden.com/[grid garden]
-* https://www.w3schools.com/css/default.asp[CSS rules]
-* https://css-tricks.com/snippets/css/complete-guide-grid/[Grids tutorial]
 
